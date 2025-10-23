@@ -84,3 +84,19 @@ body {
   border: 1px solid #d5673e;
   margin: 2rem 0;
 }
+
+/* logo */
+.footer-logo {
+  text-align: center;
+}
+
+.footer-logo p {
+  font-weight: bold;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+}
+
+.footer-logo img {
+  vertical-align: middle;
+  height: 1.5rem;
+}
