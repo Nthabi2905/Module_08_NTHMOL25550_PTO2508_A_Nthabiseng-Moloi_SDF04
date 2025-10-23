@@ -78,3 +78,9 @@ body {
 .links a:hover {
   color: #fff;
 }
+
+/* Horizontal line */
+.footer hr {
+  border: 1px solid #d5673e;
+  margin: 2rem 0;
+}
