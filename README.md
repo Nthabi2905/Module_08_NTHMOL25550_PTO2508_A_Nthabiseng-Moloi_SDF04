@@ -1,4 +1,4 @@
-# 🌍 Responsive Layout Project
+# Responsive Layout Project
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -9,10 +9,10 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ---
 
-## 📋 Table of contents
+## Table of contents
 
-- [🌍 Responsive Layout Project](#-responsive-layout-project)
-  - [📋 Table of contents](#-table-of-contents)
+- [Responsive Layout Project](#responsive-layout-project)
+  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshots](#screenshots)
