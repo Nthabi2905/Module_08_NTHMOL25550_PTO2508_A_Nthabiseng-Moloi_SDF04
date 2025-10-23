@@ -20,3 +20,39 @@ body {
   max-width: 1200px;
   margin: 2rem auto;
 }
+
+/* Newsletter section */
+.newsletter h3 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.newletter form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  max-width: 400px;
+}
+
+.newsletter input {
+  padding: 0.8rem;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+
+.newsletter button {
+  background-color: #d5673e;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.newletter button:hover {
+  background-color: #c15a33;
+}
