@@ -56,3 +56,25 @@ body {
 .newletter button:hover {
   background-color: #c15a33;
 }
+
+/* Footer Links */
+.links {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  gap: 2rem;
+}
+
+.link h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.links ul {
+  list-style: none;
+}
+
+.links a:hover {
+  color: #fff;
+}
