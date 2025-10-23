@@ -20,9 +20,3 @@ body {
   max-width: 1200px;
   margin: 2rem auto;
 }
-
-/* Newsletter section */
-.newsletter h3 {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-}
