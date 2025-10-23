@@ -100,3 +100,23 @@ body {
   vertical-align: middle;
   height: 1.5rem;
 }
+
+/* Creating a responsive layout */
+/* Iphone SE- 375px */
+@media (max-width: 767px) {
+  .footer {
+    text-align: left;
+  }
+
+  .newletter form {
+    flex-direction: column;
+  }
+
+  .links {
+    flex-direction: column;
+  }
+
+  .footer-logo {
+    text-align: center;
+  }
+}
