@@ -2,10 +2,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Design-success?logo=responsive&logoColor=white)
 
-This is a solution to the CS Footer on [CodeSpace Academy](https://www.codespace.co.za/) as part of the Frontend Software Development Course.  
-Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the CS Footer on [CodeSpace Academy](https://www.codespace.co.za/) as part of the Frontend Software Development Course.
 
 ---
 
@@ -16,7 +14,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshots](#screenshots)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -51,12 +48,6 @@ Users should be able to:
 
 ---
 
-### Links
-
-- **Live Site URL:** [Add your live site URL here](https://your-live-site-url.com)
-
----
-
 ## My process
 
 ### Built with
@@ -73,12 +64,3 @@ Users should be able to:
 
 This project helped me strengthen my understanding of **responsive design** and **adaptive layouts**.  
 I practiced using **relative units** like `rem`, `%`, and `vh/vw` for more fluid scaling.
-
-```css
-@media (max-width: 768px) {
-  .container {
-    grid-template-columns: 1fr;
-    padding: 1.5rem;
-  }
-}
-```
